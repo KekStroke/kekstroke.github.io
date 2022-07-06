@@ -1,5 +1,5 @@
 <script lang="ts" context="module">
-	export const prerender = false;
+	export const prerender = true;
 	import Navbar from '../components/Navbar.svelte';
 	import Footer from '../components/Footer.svelte';
 </script>
