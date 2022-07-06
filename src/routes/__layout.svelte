@@ -1,4 +1,5 @@
 <script lang="ts" context="module">
+	//
 	export const prerender = false;
 	import Navbar from '../components/Navbar.svelte';
 </script>
