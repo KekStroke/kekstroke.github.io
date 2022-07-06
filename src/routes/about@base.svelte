@@ -1,5 +1,5 @@
 <script lang="ts">
-import AboutPage from "../components/AboutPage.svelte";
-
+	import AboutPage from '../components/AboutPage.svelte';
 </script>
-<AboutPage></AboutPage>
+
+<AboutPage />
